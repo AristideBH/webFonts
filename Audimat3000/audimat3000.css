@@ -1,9 +1,59 @@
+.fontReg {
+    font-family: "Audimat";
+}
+
+.fontLight {
+    font-family: "AudimatLight";
+}
+
+.fontBold {
+    font-family: "AudimatDemiBold";
+}
+
+.fontBolder {
+    font-family: "AudimatBold";
+}
+
 @font-face {
     font-family: "Audimat";
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.eot");
     src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.woff2") format("woff2"),
         url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.woff") format("woff"),
         url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.ttf") format("truetype"),
         url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.svg") format("svg");
     font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "AudimatDemiBold";
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras.eot");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras.woff2") format("woff2"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras.woff") format("woff"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras.ttf") format("truetype"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras.svg") format("svg");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "AudimatBold";
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras.eot");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras.woff2") format("woff2"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras.woff") format("woff"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras.ttf") format("truetype"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras.svg") format("svg");
+    font-weight: bolder;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "AudimatLight";
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger.eot");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger.woff2") format("woff2"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger.woff") format("woff"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger.ttf") format("truetype"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger.svg") format("svg");
+    font-weight: light;
     font-style: normal;
 }
