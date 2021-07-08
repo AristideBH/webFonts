@@ -1,6 +1,5 @@
 @font-face {
     font-family: "Audimat";
-    /* src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.eot"); */
     src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.woff2") format("woff2"),
         url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.woff") format("woff"),
         url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.ttf") format("truetype"),
