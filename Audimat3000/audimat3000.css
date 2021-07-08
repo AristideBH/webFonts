@@ -80,44 +80,44 @@
 
 @font-face {
     font-family: "Audimat-Italic";
-    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italic.eot");
-    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italic.woff2") format("woff2"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italic.woff") format("woff"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italic.ttf") format("truetype"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italic.svg") format("svg");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italique.eot");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italique.woff2") format("woff2"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italique.woff") format("woff"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italique.ttf") format("truetype"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier-Italique.svg") format("svg");
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: "AudimatDemiBold-Italic";
-    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italic.eot");
-    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italic.woff2") format("woff2"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italic.woff") format("woff"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italic.ttf") format("truetype"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italic.svg") format("svg");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italique.eot");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italique.woff2") format("woff2"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italique.woff") format("woff"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italique.ttf") format("truetype"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Mi-gras-Italique.svg") format("svg");
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: "AudimatBold-Italic";
-    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italic.eot");
-    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italic.woff2") format("woff2"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italic.woff") format("woff"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italic.ttf") format("truetype"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italic.svg") format("svg");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italique.eot");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italique.woff2") format("woff2"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italique.woff") format("woff"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italique.ttf") format("truetype"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Gras-Italique.svg") format("svg");
     font-weight: bolder;
     font-style: italic;
 }
 
 @font-face {
     font-family: "AudimatLight-Italic";
-    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italic.eot");
-    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italic.woff2") format("woff2"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italic.woff") format("woff"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italic.ttf") format("truetype"),
-        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italic.svg") format("svg");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italique.eot");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italique.woff2") format("woff2"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italique.woff") format("woff"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italique.ttf") format("truetype"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Leger-Italique.svg") format("svg");
     font-weight: light;
     font-style: italic;
 }
