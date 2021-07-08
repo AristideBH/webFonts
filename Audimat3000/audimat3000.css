@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Audimat";
-    src: url("https://raw.githubusercontent.com/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.eot");
-    src: url("https://raw.githubusercontent.com/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.woff2") format("woff2"),
-        url("https://raw.githubusercontent.com/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.woff") format("woff"),
-        url("https://raw.githubusercontent.com/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.ttf") format("truetype"),
-        url("https://raw.githubusercontent.com/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.svg") format("svg");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.eot");
+    src: url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.woff2") format("woff2"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.woff") format("woff"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.ttf") format("truetype"),
+        url("https://cdn.statically.io/gh/AristideBH/webFonts/main/Audimat3000/A3000-Regulier.svg") format("svg");
     font-weight: normal;
     font-style: normal;
 }
